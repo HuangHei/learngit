@@ -1,2 +1,5 @@
 ﻿hello，这是我的一个git测试文件
 222233333
+
+Git is a distributed version control system.
+Git is free software.
